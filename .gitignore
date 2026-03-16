@@ -1,5 +1,7 @@
-# Generated sprite output from example.py
+# Generated sprite output
 sprite_output.png
+sprite_showcase.png
+sprite_showcase.gif
 
 # Python byte-code / caches
 __pycache__/
