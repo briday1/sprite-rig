@@ -1,0 +1,12 @@
+# Generated sprite output from example.py
+sprite_output.png
+
+# Python byte-code / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build / distribution artefacts
+*.egg-info/
+dist/
+build/
